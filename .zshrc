@@ -123,9 +123,3 @@ alias matrix="sh ~/matrix.sh"
 export NODE_ENV="development"
 
 source /Users/harris/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source ~/.ember-mongo-blog-env
-
-# these are for ember-mongo-blog
-export GOOGLE_CLIENT_ID="784728722932-loeasa79qg9v466f04u24am01gub4nea.apps.googleusercontent.com";
-export GOOGLE_CLIENT_SECRET="8A7QCeP7N4_UK4ELoJdgz-Of";
-export REDIRECT_URI="http://localhost:4200/oauth2callback";
