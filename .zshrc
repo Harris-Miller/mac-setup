@@ -115,7 +115,7 @@ load-nvmrc
 #
 # Example aliases
 alias zshconfig="subl ~/.zshrc"
-alias ohmyzsh="mate ~/.oh-my-zsh"
+alias ohmyzsh="subl ~/.oh-my-zsh"
 alias mkdir="mkdir -pv"
 
 alias matrix="sh ~/matrix.sh"
