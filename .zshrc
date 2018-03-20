@@ -126,7 +126,3 @@ alias mkdir="mkdir -pv"
 export NODE_ENV="development"
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-# yogi
-export ACCOUNTS_CLIENT_ID="76043e42447e997961922bcea0aa70e11fa66235a6eede90a20a2c1be35692e6"
-export ACCOUNTS_CLIENT_SECRET="7c59bb45505fa4f3c5d0b2c02c3b172fd6a25bf7c73e14c48fdecdceabfd9aae"
