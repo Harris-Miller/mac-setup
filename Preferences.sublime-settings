@@ -30,5 +30,6 @@
   "scroll_past_end": true,
   "tab_size": 2,
   "theme": "predawn-DEV.sublime-theme",
-  "translate_tabs_to_spaces": true
+  "translate_tabs_to_spaces": true,
+  "close_windows_when_empty": false
 }
