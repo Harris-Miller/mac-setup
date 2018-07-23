@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "editor.renderWhitespace": "none",
+  "workbench.statusBar.feedback.visible": false,
+  "editor.minimap.showSlider": "always",
+  "workbench.colorTheme": "Predawn Twilight",
+  "diffEditor.ignoreTrimWhitespace": false
+}
