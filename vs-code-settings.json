@@ -8,5 +8,14 @@
   "workbench.statusBar.feedback.visible": false,
   "editor.minimap.showSlider": "always",
   "workbench.colorTheme": "Predawn Twilight",
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.packageManager": "yarn",
+  "javascript.validate.enable": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascript"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "terminal.integrated.cursorStyle": "line"
 }

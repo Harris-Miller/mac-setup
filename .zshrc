@@ -10,7 +10,7 @@ PATH=/opt/apache-maven-3.5.0/bin:$PATH
 export PATH\
 
 # default editor
-export EDITOR=subl
+export EDITOR=code
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
