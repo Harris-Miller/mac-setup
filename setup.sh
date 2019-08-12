@@ -4,7 +4,7 @@
 # brews
 brew install cmatrix git openssl postgresql python readline redis sqlite thefuck watchman zsh zsh-completions zsh-syntax-highlighting bat
 # casks
-brew cask install firefox flux google-chrome iterm2 itsycal onyx postman sourcetree spectacle spotify the-unarchiver visual-studio-code vlc slack
+brew cask install firefox flux google-chrome iterm2 itsycal onyx postman sourcetree spectacle spotify the-unarchiver visual-studio-code vlc slack recordit
 
 # node version manager
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash

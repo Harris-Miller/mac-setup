@@ -31,3 +31,4 @@ sublime-text
 the-unarchiver
 visual-studio-code
 vlc
+recordit
